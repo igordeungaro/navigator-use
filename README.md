@@ -320,3 +320,12 @@ If you use Browser Use in your research or project, please cite:
 </div>
 
 <div align="center"> Made with ❤️ in Zurich and San Francisco </div>
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [browser-use/browser-use](https://github.com/browser-use/browser-use), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/browser-use/browser-use
